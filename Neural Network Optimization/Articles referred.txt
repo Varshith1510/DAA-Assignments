@@ -1,0 +1,12 @@
+Neural Network: 
+	https://www.kdnuggets.com/2019/11/build-artificial-neural-network-scratch-part-1.html
+
+Particle Swarm Optimization: 
+	https://www.sciencedirect.com/science/article/pii/S0898122111004299
+	https://www.youtube.com/watch?v=JhgDMAm-imI
+
+Genetic Algorithm: 
+	https://towardsdatascience.com/artificial-neural-networks-optimization-using-genetic-algorithm-with-python-1fe8ed17733e
+
+Ant Colony Optimization:
+	https://www.youtube.com/watch?v=783ZtAF4j5g
